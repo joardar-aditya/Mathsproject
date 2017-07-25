@@ -1,2 +1,2 @@
-# Homesorter
-This is a repository containing codes for sorter for the home items
+#Mathsproject
+repository for important maths operations.
